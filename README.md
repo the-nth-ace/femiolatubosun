@@ -11,4 +11,20 @@
 
 ⚒ Currently working with FastApi
 
+# Projects
+
+## Django Projects
+
+
+## Nest Projects
+
+
+## Vanilla HTML/CSS/JS Projects
+
+
+## FastAPI projects
+
+
+## React Frontend Standalone Projects
+
 
