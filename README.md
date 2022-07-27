@@ -9,7 +9,7 @@
 - Next
 - React
 
-⚒ Currently working with FastApi
+⚒ Currently working with FastApi and NEXT
 
 # Projects
 
