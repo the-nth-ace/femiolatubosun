@@ -1,5 +1,5 @@
-<h2>Hi!, I'm Femi Olatubosun </h2>
-<p align="center">I'm a Python Backend Developer who leverages latest Python & Typescript technologies to create high performance APIs.
+<h1>Hey 🙋‍♂️ I'm Femi Olatubosun </h1>
+<p>I'm a Python Backend Developer who leverages latest Python & Typescript technologies to create high performance APIs.
 </p>
 
 ### 
