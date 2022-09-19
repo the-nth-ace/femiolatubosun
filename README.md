@@ -1,5 +1,8 @@
-### I'm a Python Backend Developer who leverages latest Python & Typescript technologies to create high performance APIs.
+<h2>Hi!, I'm Femi Olatubosun </h2>
+<p align="center">I'm a Python Backend Developer who leverages latest Python & Typescript technologies to create high performance APIs.
+</p>
 
+### 
 # 💻 Tech Stack
 - FastApi
 - NestJS
