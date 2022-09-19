@@ -4,9 +4,8 @@
 
 ### 
 # 💻 Tech Stack
-- FastApi
+- FastAPI
 - NestJS
-
 
 # Projects
 
