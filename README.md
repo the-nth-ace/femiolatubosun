@@ -8,12 +8,12 @@
 <p align="left">
 <img src="https://img.shields.io/badge/Python-.py-blue" />
 <img src="https://img.shields.io/badge/Typescript-.ts-blue" />
-<img src="https://img.shields.io/badge/Express-ts-red" />
-<img src="https://img.shields.io/badge/FastAPI-py-teal" />
-<img src="https://img.shields.io/badge/NestJS-ts-red" />
-<img src="https://img.shields.io/badge/Django-py-green" />
-<img src="https://img.shields.io/badge/Flask-py-black" />
-<img src="https://img.shields.io/badge/React-ts-cyan" />
+<img src="https://img.shields.io/badge/Express-.ts-red" />
+<img src="https://img.shields.io/badge/FastAPI-.py-teal" />
+<img src="https://img.shields.io/badge/NestJS-.ts-red" />
+<img src="https://img.shields.io/badge/Django-.py-green" />
+<img src="https://img.shields.io/badge/Flask-.py-black" />
+<img src="https://img.shields.io/badge/React-.ts-cyan" />
 <img src="https://img.shields.io/badge/Docker-white" />
 
 <p>
@@ -43,6 +43,6 @@
 - [Courses-io](https://github.com/femiolatubosun/courses-io)
 
 
-⚒ Currently working with FastApi
+⚒ Currently working with TypeScript
 
 
