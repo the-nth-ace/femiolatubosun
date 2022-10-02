@@ -14,6 +14,7 @@
 <img src="https://img.shields.io/badge/Django-py-green" />
 <img src="https://img.shields.io/badge/Flask-py-black" />
 <img src="https://img.shields.io/badge/React-ts-cyan" />
+<img src="https://img.shields.io/badge/Docker-white" />
 
 <p>
 
@@ -30,12 +31,13 @@
 <p align="left">
 <img src="https://img.shields.io/badge/NestJS-ts-red" />
 </p>
--[Alpha-backend](https://github.com/femiolatubosun/alpha-backend)
+- [Alpha-backend](https://github.com/femiolatubosun/alpha-backend)
 
 -----
 <p align="left">
 <img src="https://img.shields.io/badge/Django-py-green" />
 </p>
+
 - [Hotel-mg](https://github.com/femiolatubosun/hotels-mg)
 - [Course-io](https://github.com/femiolatubosun/courses-io)
 
