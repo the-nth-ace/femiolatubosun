@@ -31,6 +31,7 @@
 <p align="left">
 <img src="https://img.shields.io/badge/NestJS-ts-red" />
 </p>
+
 - [Alpha-backend](https://github.com/femiolatubosun/alpha-backend)
 
 -----
@@ -38,8 +39,8 @@
 <img src="https://img.shields.io/badge/Django-py-green" />
 </p>
 
-- [Hotel-mg](https://github.com/femiolatubosun/hotels-mg)
-- [Course-io](https://github.com/femiolatubosun/courses-io)
+- [Hotels-mg](https://github.com/femiolatubosun/hotels-mg)
+- [Courses-io](https://github.com/femiolatubosun/courses-io)
 
 
 ⚒ Currently working with FastApi
