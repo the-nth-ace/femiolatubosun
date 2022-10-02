@@ -1,6 +1,7 @@
-<h1>Hey 🙋‍♂️ I'm Femi Olatubosun </h1>
-<p>I'm a Python Backend Developer who leverages latest Python & Typescript technologies to create high performance APIs.
-</p>
+<h1>Femi Olatubosun </h1>
+<p align="center">I'm a Backend Developer who leverages latest Python & Typescript technologies to create high performance APIs.
+</p> 
+<p align="center"⚒ Currently working with TypeScript and learning architectural patterns</p>
 
 ### 
 # 💻 Tech Stack
@@ -43,6 +44,6 @@
 - [Courses-io](https://github.com/femiolatubosun/courses-io)
 
 
-⚒ Currently working with TypeScript
+
 
 
