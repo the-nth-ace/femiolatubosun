@@ -26,7 +26,7 @@
 <img src="https://img.shields.io/badge/Express-.ts-red" />
 </p>
 
--[Kolo](https://github.com/femiolatubosun/kolo)
+- [Kolo](https://github.com/femiolatubosun/kolo)
 ----
 
 <p align="left">
